@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questionsOne">
+        <item>1asd</item>
+        <item>2sg</item>
+        <item>3sdg</item>
+        <item>4sdg</item>
+        <item>sdvz5</item>
+        <item>`v6</item>
+        <item>`xcv7</item>
+        <item>vzxcv8</item>
+        <item>xcv9</item>
+        <item>zcvxz0</item>
+    </string-array>
+    <string-array name="варианты_ответов_1">
+        <item>первый вариант 1 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 2 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 3 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 4 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 5 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 6 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 7 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 8 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 9 / второй вариант 2 / третий вариант 3</item>
+        <item>первый вариант 0 / второй вариант 2 / третий вариант 3</item>
+    </string-array>
+    <string-array name="results_1">
+        <item>0-2 хуй</item>
+        <item>3-6 пизда</item>
+        <item>7 - 10 сковорода</item>
+    </string-array>
+    <integer-array name="границы_1">
+        <item>10</item>
+        <item>20</item>
+    </integer-array>
+    <integer name="количество_ответов">3</integer>
+</resources>

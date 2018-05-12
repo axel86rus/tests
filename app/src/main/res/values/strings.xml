@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Психологические тесты</string>
+    <string-array name="name_test">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="description_test">
+        <item>dfkald\n\
+            dfvbcb\n
+            cvb\n
+            cvb\n
+            dzvb\n
+            dz\n
+            b\n
+            dfb\n
+            x\n
+            vbknfbl;anf;ba1</item>
+        <item>
+            cb\n
+            cxv\n
+            bcxn\n
+            vb\n
+            xvdfkaldknfbl;anf;ba2</item>
+        <item>
+            hm\n
+            hv\n
+            mv\n
+            h,m\n
+            dfkaldknfbl;anf;ba3</item>
+        <item>
+            vnm
+            bnm
+            bnmdfkaldknfbl;anf;ba4</item>
+        <item>d
+            cbnm\n
+            cbnm\n
+            cbnm\n
+            cb\n
+            fkaldknfbl;anf;ba5</item>
+        <item>d\n
+            cn\n
+            cbn\n
+             cb\n
+             fkaldknfbl;anf;ba6</item>
+        <item>
+            cv\n
+            n\n
+            cv\n
+             dfkaldknfbl;anf;ba7</item>
+        <item>dfkaldknfbl;anf;ba8</item>
+        <item>d\n
+            cv\n
+             cv\n
+             fkaldknfbl;anf;ba9</item>
+        <item>d\n
+            cvn\n
+            cv\n
+            n c\n
+            v\n
+            vb\n
+             c\n
+            v fkaldknfbl;anf;ba0</item>
+    </string-array>
+</resources>
